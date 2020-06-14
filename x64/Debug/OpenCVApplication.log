@@ -1,0 +1,20 @@
+﻿  OpenCVApplication.cpp
+d:\facultate\an iii\semestrul ii\procesarea imaginilor\proiect\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(555): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+d:\facultate\an iii\semestrul ii\procesarea imaginilor\proiect\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(556): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+d:\facultate\an iii\semestrul ii\procesarea imaginilor\proiect\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(557): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  OpenCVApplication.vcxproj -> D:\Facultate\An III\Semestrul II\Procesarea imaginilor\Proiect\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
